@@ -14,18 +14,9 @@ This project implements a text summarization tool using **SpaCy**, an NLP librar
 - Python 3.x
 - **SpaCy** library
 - **en_core_web_sm** model
+- **Flask**
 
-### Steps:
-1. Install SpaCy:
-   ```bash
-   pip install spacy
-2. Install the SpaCy English model:
-   ```bash
-   python -m spacy download en_core_web_sm
 
-3. Install any additional dependencies if needed:
-    ```bash
-     pip install heapq
 
 ## Usage
 To use the summarizer, you can call the summarizer function with your text input. Here's an example:
