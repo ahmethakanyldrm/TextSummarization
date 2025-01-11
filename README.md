@@ -1,2 +1,0 @@
-# TextSummarization
- NLP Project
