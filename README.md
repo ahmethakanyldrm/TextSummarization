@@ -3,12 +3,12 @@
 This project implements a text summarization tool using **SpaCy**, an NLP library. The summarizer extracts the most important sentences from a given text by analyzing word frequencies, filtering out stop words and punctuation, and scoring sentences based on their word frequencies.
 
 ## Table of Contents
-- [Installation](#installation)
+
 - [Usage](#usage)
 - [How It Works](#how-it-works)
 - [Dependencies](#dependencies)
 
-## Installation
+
 
 ### Prerequisites
 - Python 3.x
